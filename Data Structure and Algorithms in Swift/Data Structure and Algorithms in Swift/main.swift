@@ -7,11 +7,8 @@
 
 import Foundation
 
-let nodeA = Node(value: 5)
-let nodeB = Node(value: 10)
+var list = LinkedList<Int>()
+list.append(1)
+list.append(2)
 
-
-nodeA.next = nodeB
-
-
-print(nodeA)
+print(list)
