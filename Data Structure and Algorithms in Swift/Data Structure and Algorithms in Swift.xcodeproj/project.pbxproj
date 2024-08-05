@@ -10,6 +10,7 @@
 		751782AA2C4CE91000B5F843 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 751782A92C4CE91000B5F843 /* LinkedList.swift */; };
 		756C4ED12C4AEC5100F11D7B /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756C4ED02C4AEC5100F11D7B /* Node.swift */; };
 		C45A923A2C3F7A560055EDBF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45A92392C3F7A560055EDBF /* main.swift */; };
+		C4AB7C952C60B3DE009F20A1 /* BinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AB7C942C60B3DE009F20A1 /* BinarySearchTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		756C4ED02C4AEC5100F11D7B /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
 		C45A92362C3F7A560055EDBF /* Data Structure and Algorithms in Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Data Structure and Algorithms in Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C45A92392C3F7A560055EDBF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		C4AB7C942C60B3DE009F20A1 /* BinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				C45A92392C3F7A560055EDBF /* main.swift */,
 				C45A92442C3F7AF60055EDBF /* Data Structure */,
+				C4AB7C942C60B3DE009F20A1 /* BinarySearchTree.swift */,
 			);
 			path = "Data Structure and Algorithms in Swift";
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C4AB7C952C60B3DE009F20A1 /* BinarySearchTree.swift in Sources */,
 				751782AA2C4CE91000B5F843 /* LinkedList.swift in Sources */,
 				C45A923A2C3F7A560055EDBF /* main.swift in Sources */,
 				756C4ED12C4AEC5100F11D7B /* Node.swift in Sources */,
